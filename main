@@ -8,9 +8,7 @@ def suma_numeros(numeros):
         print(suma)
     return suma
     import requests
-import hello
-import perfil
-import config
+
 
 print ('Este es un bot de prueba toca el comando /help')
 
